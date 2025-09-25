@@ -9,4 +9,4 @@
     - expression: verander_deck(["barbaren", "pijlen", "golem"], ["pijlen", "golem", "prinses"], [0, 0, 1])
       return: ["barbaren", "prinses"]
     - expression: verander_deck(["barbaren", "pijlen", "golem"], ["barbaren", "pijlen", "golem"], [0, 0, 0])
-      return: ["barbaren", "pijlen", "golem"]
+      return: []
