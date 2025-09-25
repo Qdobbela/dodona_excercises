@@ -1,0 +1,12 @@
+- tab: "Clash Royale Evaluatie"
+  testcases:
+    - expression: verander_deck(["ridder", "boogschutter", "kanon"], ["kanon", "prinses", "ridder"], [0, 1, 0])
+      return: ["boogschutter", "prinses"]
+    - expression: verander_deck(["vuurgeest", "ijsgolem"], ["vuurgeest", "prinses", "boogschutter"], [0, 1, 1])
+      return: ["ijsgolem", "prinses", "boogschutter"]
+    - expression: verander_deck(["goblin", "tovenaar", "reus"], ["tovenaar", "reus", "prinses"], [0, 0, 1])
+      return: ["goblin", "prinses"]
+    - expression: verander_deck(["barbaren", "pijlen", "golem"], ["pijlen", "golem", "prinses"], [0, 0, 1])
+      return: ["barbaren", "prinses"]
+    - expression: verander_deck(["barbaren", "pijlen", "golem"], ["barbaren", "pijlen", "golem"], [0, 0, 0])
+      return: ["barbaren", "pijlen", "golem"]
