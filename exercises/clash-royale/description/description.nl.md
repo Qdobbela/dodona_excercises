@@ -1,6 +1,6 @@
 In het spel Clash Royale stel je een deck samen van verschillende kaarten, waarmee je tegen andere spelers strijdt. Soms wil je kaarten toevoegen of verwijderen om je deck te verbeteren. In deze oefening leer je hoe je een lijst van kaarten (je deck) automatisch kunt aanpassen op basis van een aantal veranderingen.
 
-![Clash Royale](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/clash-royale-electro-wizard-deck-1.jpg?q=49&fit=crop&w=825&dpr=2)
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/clash-royale-electro-wizard-deck-1.jpg?q=49&fit=crop&w=825&dpr=2" width="200" height="100">
 
 Schrijf een functie `verander_deck` die drie lijsten als argumenten krijgt:
 
