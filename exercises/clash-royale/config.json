@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "en": "Clash Royale",
+      "nl": "Clash Royale"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "internals": {
+    "token": "rkQgPeNQ_9TZYQmfXkt-m-8X94pe_YgqKKcazHvSe8kZWM9_Hci4yMzx7wCFqhsT",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
